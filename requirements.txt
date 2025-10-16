@@ -12,6 +12,7 @@ seaborn==0.13.2
 fastapi==0.115.0
 uvicorn==0.30.1
 streamlit==1.38.0
+gunicorn==23.0.0
 
 # Utility
 python-dotenv==1.0.1
