@@ -160,6 +160,8 @@ Connect your GitHub repo on Railway or Render and deploy.
 
 ![Image 3](screenshots/3.png)
 
+> **`Note`**: A potential reason for high latency could be that the app's server is hosted physically in `South-East Asia` (Singapore, `ap-southeast-1`), which `Railway` automatically assigns to the project when deploying. Users farther from the region may experience slightly higher latency (a few hundred milliseconds more). However, using a `VPN` might help.
+
 ---
 
 ## Future Enhancements
