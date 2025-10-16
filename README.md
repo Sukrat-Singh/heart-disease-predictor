@@ -150,7 +150,7 @@ Connect your GitHub repo on Railway or Render and deploy.
 
 ---
 
-##Credits
+## Credits
 
 Developed by `Sukrat Singh`
 
