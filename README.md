@@ -1,6 +1,6 @@
 # Heart-Disease-Predictor
 
-A web application built as an exercise that predicts the likelihood of heart disease using machine learning. Built with **Flask**, HTML templates, and a trained ML model. The app provides both a **web interface** and a **REST API** for predictions.
+A web application built as an practice project that demonstrates a production grade ML project. It tells the likelihood of heart disease using machine learning. Built with **Flask**, HTML templates, and a trained ML model. The app provides both a **web interface** and a **REST API** for predictions.
 
 ---
 
@@ -149,6 +149,26 @@ Push your repository to GitHub.
 Connect your GitHub repo on Railway or Render and deploy.
 
 ---
+
+## Screenshots
+
+**Web app can be seen at : https://web-production-eed1d.up.railway.app/**
+
+![Image 1](screenshots/1.png)
+
+![Image 2](screenshots/2.png)
+
+![Image 3](screenshots/3.png)
+
+---
+
+## Future Enhancements
+
+ - Add Docker support for easier deployment and consistent environments.
+ - CI/CD using GitHub Actions to automate testing and deployment.
+ - Implement REST API endpoints for integration with other applications.
+ - Improve UI/UX for better user experience.
+ - Add data validation and error handling to ensure robust input processing.
 
 ## Credits
 
