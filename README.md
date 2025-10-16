@@ -1,6 +1,6 @@
 # Heart-Disease-Predictor
 
-A web application that predicts the likelihood of heart disease using machine learning. Built with **Flask**, HTML templates, and a trained ML model. The app provides both a **web interface** and a **REST API** for predictions.
+A web application built as an exercise that predicts the likelihood of heart disease using machine learning. Built with **Flask**, HTML templates, and a trained ML model. The app provides both a **web interface** and a **REST API** for predictions.
 
 ---
 
