@@ -28,7 +28,7 @@ def abort_if_missing_fields(data):
 
 
 # ------------------------
-# API Endpoint (already working)
+# API Endpoint 
 # ------------------------
 class HeartDiseasePredict(Resource):
     def post(self):
